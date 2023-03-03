@@ -1,4 +1,5 @@
-#Parent to Child Props Communication Example
+# Parent to Child Props Communication Example
+
 ![Parent-to-childCommunication (3)](https://user-images.githubusercontent.com/57593885/222825123-7aad9b58-7602-4725-ab33-acb815510044.jpg)
 
 # Getting Started with Create React App
