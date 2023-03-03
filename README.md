@@ -2,7 +2,7 @@
 
 ![Parent-to-childCommunication (3)](https://user-images.githubusercontent.com/57593885/222825123-7aad9b58-7602-4725-ab33-acb815510044.jpg)
 
-This example shows how props are passed down from parent to child component in React. In this example we are passing down three props; handle, description and image as objects.  
+This example shows how props are passed down from parent to child component in React. In this example we are passing down four props; title, handle, description and image as objects.  
 
 # Getting Started with Create React App
 
